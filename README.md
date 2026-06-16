@@ -81,8 +81,6 @@ After Tier 1 spending is applied:
 * The calculator determines whether Tier 2 can be reached using only the remaining inventory.
 * Provides a recommended spending plan.
 
-This mirrors how most players actually progress through the event.
-
 ---
 
 # Requirements
