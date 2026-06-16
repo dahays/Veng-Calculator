@@ -290,9 +290,7 @@ If invalid data is entered, the calculator will continue prompting until a valid
 
 # Spending Strategy
 
-The calculator is optimized for:
-
-> "Use the minimum number of resources possible."
+The calculator is optimized to use the minimum number of resources possible to reach T1 and/or T2.
 
 Resources are spent in descending point value order.
 
@@ -344,3 +342,5 @@ For most STFC inventories, this produces results that closely match optimal play
 Star Trek Fleet Command and all associated assets are property of their respective owners.
 
 This project is a fan-created utility and is not affiliated with or endorsed by Scopely.
+
+This project was created with G7 being inaccessible but G7 spending SHOULD be accurate.
