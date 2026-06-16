@@ -1,4 +1,4 @@
-# Veng Calculator
+# Vengeance is Mine Calculator
 
 A Python calculator for **Star Trek Fleet Command's "Vengeance is Mine" SMS/SLB events**.
 
