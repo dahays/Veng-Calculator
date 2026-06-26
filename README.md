@@ -1,4 +1,4 @@
-# Veng Calculator
+# Vengeance is Mine Calculator
 
 A Python calculator for **Star Trek Fleet Command's "Vengeance is Mine" SMS/SLB events**.
 
@@ -80,8 +80,6 @@ After Tier 1 spending is applied:
 * Remaining inventory is calculated.
 * The calculator determines whether Tier 2 can be reached using only the remaining inventory.
 * Provides a recommended spending plan.
-
-This mirrors how most players actually progress through the event.
 
 ---
 
